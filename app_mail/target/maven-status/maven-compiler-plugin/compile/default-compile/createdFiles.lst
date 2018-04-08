@@ -1,0 +1,10 @@
+com\itsoft\app_mail\services\EmailSeacherPOPIMAP.class
+com\itsoft\app_mail\util\PropertyLoader.class
+com\itsoft\app_mail\services\EmailSeacherEWS$RedirectionUrlCallback.class
+com\itsoft\app_mail\services\EmailSeacherEWS.class
+com\itsoft\app_mail\services\EmailSeacher.class
+com\itsoft\app_mail\model\Mail.class
+com\itsoft\app_mail\util\Helper.class
+com\itsoft\app_mail\App.class
+com\itsoft\app_mail\model\Filter.class
+com\itsoft\app_mail\util\MailFilter.class
